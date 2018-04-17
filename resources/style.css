@@ -1,0 +1,16 @@
+body {
+  font-family: cursive;
+  background-color: gray;
+}
+
+h1 {
+color: blue;
+text-align: center;
+font-size: 54px;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  font-size: 27px;
+}
