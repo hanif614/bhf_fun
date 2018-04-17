@@ -4,9 +4,11 @@ body {
 }
 
 h1 {
-color: blue;
-text-align: center;
-font-size: 54px;
+  background-image: image("./resources/images/billaleh376.jpg");
+  color: blue;
+  text-align: center;
+  font-size: 54px;
+
 }
 
 h2 {
